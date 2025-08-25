@@ -198,5 +198,205 @@
     "totalFloors": 17,
     "price": 16800000,
     "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "114",
+    "name": "3-комнатная №104",
+    "rooms": 3,
+    "area": 63.1,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 6630500,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "115",
+    "name": "3-комнатная №105",
+    "rooms": 3,
+    "area": 63.2,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 6650759,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "116",
+    "name": "3-комнатная №106",
+    "rooms": 3,
+    "area": 63.2,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 6650759,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "117",
+    "name": "3-комнатная №107",
+    "rooms": 3,
+    "area": 63.6,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 6671314,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "118",
+    "name": "3-комнатная №108",
+    "rooms": 3,
+    "area": 63.1,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 6679554,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "231",
+    "name": "1-комнатная №201",
+    "rooms": 1,
+    "area": 33.5,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 5500000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "232",
+    "name": "2-комнатная №202",
+    "rooms": 2,
+    "area": 45.8,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 7200000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "233",
+    "name": "4-комнатная №203",
+    "rooms": 4,
+    "area": 85.2,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 12300000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "234",
+    "name": "1-комнатная №204",
+    "rooms": 1,
+    "area": 35.1,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 5800000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "235",
+    "name": "2-комнатная №205",
+    "rooms": 2,
+    "area": 48.3,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 7650000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "236",
+    "name": "3-комнатная №206",
+    "rooms": 3,
+    "area": 67.4,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 8900000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "237",
+    "name": "4-комнатная №207",
+    "rooms": 4,
+    "area": 92.1,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 15200000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "238",
+    "name": "1-комнатная №208",
+    "rooms": 1,
+    "area": 38.7,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 6100000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "239",
+    "name": "2-комнатная №209",
+    "rooms": 2,
+    "area": 52.6,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 8200000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "240",
+    "name": "3-комнатная №210",
+    "rooms": 3,
+    "area": 71.8,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 9500000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "241",
+    "name": "4-комнатная №211",
+    "rooms": 4,
+    "area": 98.5,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 18900000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "242",
+    "name": "1-комнатная №212",
+    "rooms": 1,
+    "area": 41.2,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 6500000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "243",
+    "name": "2-комнатная №213",
+    "rooms": 2,
+    "area": 55.9,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 8750000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "244",
+    "name": "3-комнатная №214",
+    "rooms": 3,
+    "area": 75.3,
+    "floor": 17,
+    "totalFloors": 17,
+    "price": 10200000,
+    "image": "/images/apartment-plan.png"
+  },
+  {
+    "id": "245",
+    "name": "4-комнатная №215",
+    "rooms": 4,
+    "area": 105.7,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 16800000,
+    "image": "/images/apartment-plan.png"
   }
 ]
